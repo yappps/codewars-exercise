@@ -1,0 +1,12 @@
+{
+  "name": "codewars-katas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  },
+  "scripts": {
+    "test:watch": "jest --watch"
+  }
+}
