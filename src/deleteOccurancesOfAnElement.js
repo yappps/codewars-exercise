@@ -24,14 +24,13 @@ const deleteNth = (array, nth) => {
   return ansArray;
 };
 
-// [Other people Ans]
+//[Other people Ans]
 // function deleteNth(array, nth) {
-//   var cache = {};
-//   return array.filter(function(element) {
+//   let cache = {};
+//   return array.filter(element => {
+//     // line 33: This means that if cache[element] === undefined, cache[element] will equal 0 AND plus 1. Else cache[element] === defined, cache[element] += 1
 //     cache[element] = (cache[element] || 0) + 1;
-//     // console.log(cache);
-//     // console.log(cache[element]);
 //     return cache[element] <= nth;
 //   });
 // }
-module.exports = deleteNth;
+// module.exports = deleteNth;
