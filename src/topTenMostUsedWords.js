@@ -1,26 +1,27 @@
 const topTen = input => {
   let removeSpecialCharacters = input.replace(/[^a-zA-Z0-9 ]/g, "");
-  let rank = {};
+  let tabulate = {};
   let topTen = {};
   if (input.length === 0) {
     return "You need to have text";
   } else {
     let convertToArray = removeSpecialCharacters.toLowerCase().split(" ");
     convertToArray.map(element => {
-      rank[element] = (rank[element] || 0) + 1;
+      tabulate[element] = (tabulate[element] || 0) + 1;
     });
-    let keysSorted = Object.keys(rank).sort((a, b) => rank[b] - rank[a]);
-
+    let keysSorted = Object.keys(tabulate).sort(
+      (a, b) => tabulate[b] - tabulate[a]
+    );
+    console.log(Object.keys(tabulate))
     if (keysSorted.length < 11) {
       keysSorted.forEach(element => {
-        topTen[element] = rank[element];
+        topTen[element] = tabulate[element];
       });
     } else {
       for (i = 0; i < 10; i++) {
-        topTen[keysSorted[i]] = rank[keysSorted[i]];
+        topTen[keysSorted[i]] = tabulate[keysSorted[i]];
       }
     }
-    console.log(topTen);
     return topTen;
   }
 };
