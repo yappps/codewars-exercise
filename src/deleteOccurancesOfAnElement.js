@@ -33,4 +33,4 @@ const deleteNth = (array, nth) => {
 //     return cache[element] <= nth;
 //   });
 // }
-// module.exports = deleteNth;
+module.exports = deleteNth;
