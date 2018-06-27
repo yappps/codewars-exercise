@@ -56,6 +56,10 @@ describe("Greet developers", () => {
         greeting: "Hi Madison, what do you like the most about Ruby?"
       }
     ];
+    /* 
+    Note :
+   ` toBe` uses `Object.is` to test exact equality. If you want to check the value of an object, use `toEqual`
+    */
     expect(greetDevelopers(list1)).toEqual(results);
   });
 });
