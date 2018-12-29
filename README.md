@@ -1,4 +1,4 @@
-# Codewars Exercise Solution
+# Codewars Exercise
 
 - HOF_5 :
   [Coding Meetup #5 - Higher-Order Functions Series - Prepare the count of languages](https://www.codewars.com/kata/coding-meetup-number-5-higher-order-functions-series-prepare-the-count-of-languages/train/javascript)
@@ -11,3 +11,6 @@
 
 - HOF_8
   [Coding Meetup #8 - Higher-Order Functions Series - Will all continents be represented? | Codewars](https://www.codewars.com/kata/coding-meetup-number-8-higher-order-functions-series-will-all-continents-be-represented/train/javascript)
+
+- HOF_9 [ Failed test ]
+  [Coding Meetup #9 - Higher-Order Functions Series - Is the meetup age-diverse? | Codewars](https://www.codewars.com/kata/coding-meetup-number-9-higher-order-functions-series-is-the-meetup-age-diverse)
