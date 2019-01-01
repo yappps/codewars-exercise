@@ -20,3 +20,6 @@
 
 - HOF_11
   [Kata Stats: Coding Meetup #11 - Higher-Order Functions Series - Find the average age | Codewars](https://www.codewars.com/kata/coding-meetup-number-11-higher-order-functions-series-find-the-average-age)
+
+- HOF_12
+  [Kata Stats: Coding Meetup #12 - Higher-Order Functions Series - Find GitHub admins | Codewars](https://www.codewars.com/kata/coding-meetup-number-12-higher-order-functions-series-find-github-admins)
