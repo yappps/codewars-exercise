@@ -1,4 +1,5 @@
 # Higher Order Funtions
+
 - HOF_5 :
   [Coding Meetup #5 - Higher-Order Functions Series - Prepare the count of languages](https://www.codewars.com/kata/coding-meetup-number-5-higher-order-functions-series-prepare-the-count-of-languages/train/javascript)
 
@@ -16,3 +17,6 @@
 
 - HOF_10
   [Coding Meetup #10 - Higher-Order Functions Series - Create usernames | Codewars](https://www.codewars.com/kata/coding-meetup-number-10-higher-order-functions-series-create-usernames)
+
+- HOF_11
+  [Kata Stats: Coding Meetup #11 - Higher-Order Functions Series - Find the average age | Codewars](https://www.codewars.com/kata/coding-meetup-number-11-higher-order-functions-series-find-the-average-age)
