@@ -12,7 +12,7 @@
 - HOF_8
   [Coding Meetup #8 - Higher-Order Functions Series - Will all continents be represented? | Codewars](https://www.codewars.com/kata/coding-meetup-number-8-higher-order-functions-series-will-all-continents-be-represented/train/javascript)
 
-- HOF_9 (Failed test )
+- HOF_9 (Failed test)
   [coding meetup #9 - higher-order functions series - is the meetup age-diverse? | codewars](https://www.codewars.com/kata/coding-meetup-number-9-higher-order-functions-series-is-the-meetup-age-diverse)
 
 - HOF_10
@@ -23,3 +23,9 @@
 
 - HOF_12
   [Kata Stats: Coding Meetup #12 - Higher-Order Functions Series - Find GitHub admins | Codewars](https://www.codewars.com/kata/coding-meetup-number-12-higher-order-functions-series-find-github-admins)
+
+- HOF_13 (incomplete)
+  [Kata Stats: Coding Meetup #13 - Higher-Order Functions Series - Is the meetup language-diverse? | Codewars](https://www.codewars.com/kata/coding-meetup-number-13-higher-order-functions-series-is-the-meetup-language-diverse)
+
+- HOF_14
+  [Kata Stats: Coding Meetup #14 - Higher-Order Functions Series - Order the food | Codewars](https://www.codewars.com/kata/coding-meetup-number-14-higher-order-functions-series-order-the-food)
